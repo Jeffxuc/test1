@@ -2,7 +2,7 @@
 *.exe
 
 # ignore the .out
-*.out
+#*.out
 
 # ignore the .txt
 *.txt
