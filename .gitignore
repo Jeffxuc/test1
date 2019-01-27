@@ -1,0 +1,7 @@
+# ignore the .exe
+*.exe
+
+# ignore the .out
+*.out
+
+ 
